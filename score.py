@@ -1,0 +1,7 @@
+name=str(input("Enter the name:"))
+score=int(input("Enter the score:"))
+department=str(input("Enter the department:"))
+print("---------------SCORECARD OF",name,"---------------")
+print("Candidate's name:",name)
+print("Candidate score:",score)
+print("Candidate Department:",department)
